@@ -1,0 +1,11 @@
+{
+	"subject": "acct:ljr@ljr.is",
+
+	"links": [
+		{
+			"rel": "self",
+			"type": "application/activity+json",
+			"href": "https://ljr.is/actor"
+		}
+	]
+}
